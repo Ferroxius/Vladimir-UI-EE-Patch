@@ -15,19 +15,31 @@ IMPORTANT NOTE: This mod requires EE Redux, this means that normal EE IS NOT SUP
 
 Installation
 You will require the files from EE, EE Redux and Vladimir UI but you do not need all of it. When you have downloaded those three mods delete the following
+
 modW3EE
+
 modReduxW3EE/content/scripts
+
 modVladimirUI
 
 Once you have done so download the latest version of this mod and place in your directory.
+
 Regarding merging I do not know how stable this mod is compared to normal EE so do understand if your normal merges don't work anymore
 
 Known Issues
+
 Items aren't correctly sorted in the inventory
+
 The adrenaline(now vigor) bar is white instead of red
+
 The level and exp bar are showing even though EE does not use levels anymore (also extends to the map)
+
 The skill menu has all the default skill slots still showing
+
 The skill menu is missing some icons
+
 Transitioning from inventory to stash directly rather than through the ring menu breaks things a bit
+
 The meditation menu has some artifacts
+
 Some items aren't positioned correctly in places like the radial menu
