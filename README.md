@@ -19,6 +19,10 @@ When you have downloaded those three mods delete the scripts folders of all thre
 
 Once you have done so download the latest version of this mod and place in your directory.
 
+With priority this patch must have priority over Vlad which should have priority over EE Redux. Priority should be like this:
+
+This patch > Vladimir UI > EE Redux > EE
+
 Regarding merging I do not know how stable this mod is compared to normal EE so do understand if your normal merges don't work anymore
 
 Known Issues
