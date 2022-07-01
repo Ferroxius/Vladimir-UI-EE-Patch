@@ -14,13 +14,9 @@ Outside of that both sides have somewhat retained their functions to a reasonabl
 IMPORTANT NOTE: This mod requires EE Redux, this means that normal EE IS NOT SUPPORTED
 
 Installation
-You will require the files from EE, EE Redux and Vladimir UI but you do not need all of it. When you have downloaded those three mods delete the following
+You will require the files from EE, EE Redux and Vladimir UI but you do not need all of it. 
 
-modW3EE
-
-modReduxW3EE/content/scripts
-
-modVladimirUI
+When you have downloaded those three mods delete the scripts folders of all three mods as their effects are all compiled in the patch
 
 Once you have done so download the latest version of this mod and place in your directory.
 
@@ -43,3 +39,5 @@ Transitioning from inventory to stash directly rather than through the ring menu
 The meditation menu has some artifacts
 
 Some items aren't positioned correctly in places like the radial menu
+
+Enemy health bars are missing
