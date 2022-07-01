@@ -1,4 +1,4 @@
-# Project-VladimEEr
+# Vladimir UI EE Patch
 They said it couldn't be done. I laughed and said "You're probably right" 
 
 Project VladimEEr is an attempt by yours truly to integrate the wonderful UI of Vladimir UI into the also wonderful Witcher 3 Enhanced Edition.
