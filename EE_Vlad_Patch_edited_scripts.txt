@@ -1,0 +1,64 @@
+All scripts edited by me to remove MQS and integrate Vlad
+
+inputManager.ws
+r4player.ws
+swimming.ws
+useVehicle.ws
+ingameMenu.ws
+hudmoduleWatermark.ws (removed)
+wmkPopupData.ws (removed)
+wmkQuickInventory.ws (removed)
+wmkQuickSlotTypes.ws (removed)
+wmkQuickSlots.ws (removed)
+wmkQuickSlotsConfig.ws (removed)
+wmkQuickSlotsFunctions.ws (removed)
+wmkQuickSlotsInventory.ws (removed)
+wmkQuickSlotsRadialMenu.ws (removed)
+guiPaperDollInventoryComponent.ws
+definitionsmanager.ws
+horsemanager.ws
+scenePlayer.ws
+quest_function.ws
+playerWitcher.ws
+meditation.ws
+meditationBase.ws
+npc.ws
+r4guiSceneController.ws
+r4guiManager.ws
+commonMainMenuBase.ws
+alchemyMenu.ws
+blacksmithMenu.ws
+characterMenu.ws
+commonMenu.ws
+craftingMenu.ws
+DeathScreenMenu.ws
+enchantingMenu.ws
+glossaryBestiaryMenu.ws
+inventoryMenu.ws
+journalQuestMenu.ws
+listBaseMenu.ws
+mapMenu.ws
+meditationClockMenu.ws
+testMenu.ws
+glossaryBooksMenu.ws
+glossaryEncyclopediaMenu.ws
+glossaryMenu.ws
+glossaryTutorialsMenu.ws
+igmStructureCreator.ws
+hud.ws
+hudModuleBuffs.ws
+hudModuleEnemyFocus.ws
+hudModuleInteractions.ws
+hudModuleItemInfo.ws
+hudModuleJournalUpdate.ws
+hudModuleMinimap2.ws
+hudModuleQuests.ws
+hudModuleRadialMenu.ws
+hudModuleWolfHead.ws
+guiBaseInventoryComponent.ws
+guiPlayerInventoryComponent.ws
+guiTooltipComponent.ws
+itemsTypes.ws
+placeOfPowerEntity.ws
+communitySystem.ws
+inventoryComponent.ws
