@@ -29,8 +29,6 @@ Known Issues
 
 Items aren't correctly sorted in the inventory
 
-The adrenaline(now vigor) bar is white instead of red
-
 The level and exp bar are showing even though EE does not use levels anymore (also extends to the map)
 
 The skill menu has all the default skill slots still showing
