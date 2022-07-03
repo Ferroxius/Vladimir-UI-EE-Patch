@@ -29,9 +29,9 @@ Known Issues
 
 Items aren't correctly sorted in the inventory
 
-The level and exp bar are showing even though EE does not use levels anymore (also extends to the map)
+The "required level" indicator is showing in the world map menu despite EE not using levels anymore
 
-The skill menu has all the default skill slots still showing
+The tooltip for the skill slots still shows if you hover over them
 
 The skill menu is missing some icons
 
@@ -40,5 +40,3 @@ Transitioning from inventory to stash directly rather than through the ring menu
 The meditation menu has some artifacts
 
 Some items aren't positioned correctly in places like the radial menu
-
-Enemy health bars are missing
