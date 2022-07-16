@@ -29,11 +29,7 @@ Known Issues
 
 Items aren't correctly sorted in the inventory
 
-The "required level" indicator is showing in the world map menu despite EE not using levels anymore
-
 The tooltip for the skill slots still shows if you hover over them
-
-The skill menu is missing some icons
 
 Transitioning from inventory to stash directly rather than through the ring menu breaks things a bit
 
