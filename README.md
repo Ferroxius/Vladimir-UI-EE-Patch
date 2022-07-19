@@ -27,8 +27,6 @@ Regarding merging I do not know how stable this mod is compared to normal EE so 
 
 Known Issues
 
-Items aren't correctly sorted in the inventory
-
 The tooltip for the skill slots still shows if you hover over them
 
 Transitioning from inventory to stash directly rather than through the ring menu breaks things a bit
