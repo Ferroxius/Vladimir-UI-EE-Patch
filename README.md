@@ -31,6 +31,8 @@ The tooltip for the skill slots still shows if you hover over them
 
 Transitioning from inventory to stash directly rather than through the ring menu breaks things a bit
 
+The weight indicator in Roach's stash inventory is missing
+
 The meditation menu has some artifacts
 
 Some items aren't positioned correctly in places like the radial menu
