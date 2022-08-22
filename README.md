@@ -12,7 +12,7 @@ Outside of that both sides have somewhat retained their functions to a reasonabl
 
 IMPORTANT NOTE: This mod requires EE Redux, this means that normal EE IS NOT SUPPORTED
 
-Installation
+# Installation
 You will require the files from EE, EE Redux and Vladimir UI but you do not need all of it. 
 
 When you have downloaded those three mods delete the scripts folders of all three mods as their effects are all compiled in the patch
@@ -25,7 +25,7 @@ This patch > Vladimir UI > EE Redux > EE
 
 Regarding merging I do not know how stable this mod is compared to normal EE so do understand if your normal merges don't work anymore
 
-Known Issues
+# Known Issues
 
 The tooltip for the skill slots still shows if you hover over them
 
