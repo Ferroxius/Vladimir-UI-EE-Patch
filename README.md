@@ -21,12 +21,12 @@ Once you have done so download the latest version of this mod and place in your 
 
 With priority this patch must have priority over Vlad which should have priority over EE Redux. Priority should be like this:
 
-This patch > Vladimir UI > EE Redux > EE
+- This patch > Vladimir UI > EE Redux > EE
 
 Regarding merging I do not know how stable this mod is compared to normal EE so do understand if your normal merges don't work anymore
 
 # Known Issues
 
-The tooltip for the skill slots still shows if you hover over them
+- The tooltip for the skill slots still shows if you hover over them
 
-Some items aren't positioned correctly in places like the radial menu
+- Some items aren't positioned correctly in places like the radial menu
